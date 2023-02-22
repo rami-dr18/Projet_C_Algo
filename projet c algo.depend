@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1645283569 source:c:\users\lenovo\desktop\projet algo\projet c algo\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1645283569 source:d:\personal projects\projet algo\projet c algo\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
